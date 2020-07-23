@@ -8,5 +8,5 @@ The following items have been identified as needing to be addressed.
 
 Ref|Item|Notes|
 ----|-----|--------------------|
-jameslavery/SolentMet#29|Barometric pressure scale not working |The barometric pressure graph needs to be normalised so that it displays a consistent scale.|
+[34](https://github.com/jameslavery/SolentMet/issues/34)|Barometric pressure scale not working |The barometric pressure graph needs to be normalised so that it displays a consistent scale.|
 
