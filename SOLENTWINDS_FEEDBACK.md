@@ -16,6 +16,7 @@ Ref|Item|Notes|
 [36](https://github.com/jameslavery/SolentMet/issues/36)|Allow graphs to be re-orderd.|Some users may want Barometric Pressure before Air Temperature, for example.|
 [38](https://github.com/jameslavery/SolentMet/issues/38)|NESW on wind direction.|This is easier to read than compass degrees.|
 [39](https://github.com/jameslavery/SolentMet/issues/39)|Graph zoom.|Allow zoom in on a graph, to expand a time period.|
+[40](https://github.com/jameslavery/SolentMet/issues/40)|Tidal data|Add a link to tidal data (high/low water).|
 
 # Roadmap
 
